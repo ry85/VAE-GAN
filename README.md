@@ -31,10 +31,7 @@ Pytorch implementation of paper "Autoencoding beyond pixels using a learned simi
 
 ##### After 100 epochs
 ![Generated Images after 100 epochs](/results/generated100.png)
-
-<p align="center">
-  <img width="460" height="300" src="/results/generated100.png">
-</p>
+<p align="center"><img src="/results/generated100.png"></p>
 
 References:
 https://github.com/lucabergamini/VAEGAN-PYTORCH
