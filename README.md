@@ -1,2 +1,4 @@
 # VAE-GAN
-Pytorch implementation of paper "Autoencoding beyond pixels using a learned similarity metric"
+Pytorch implementation of paper "Autoencoding beyond pixels using a learned similarity metric".
+
+jhjh
