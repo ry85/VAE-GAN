@@ -37,5 +37,7 @@ Pytorch implementation of paper "Autoencoding beyond pixels using a learned simi
 ---
 
 References:
+
 https://github.com/lucabergamini/VAEGAN-PYTORCH
+
 https://arxiv.org/abs/1512.09300
