@@ -4,6 +4,7 @@ Pytorch implementation of paper "Autoencoding beyond pixels using a learned simi
 ### Input Images
 <p align="center"><img src="/results/original.png"></p>
 
+---
 
 ### Reconstructed Images
 ##### After 25 epochs
@@ -18,6 +19,7 @@ Pytorch implementation of paper "Autoencoding beyond pixels using a learned simi
 ##### After 100 epochs
 <p align="center"><img src="/results/reconstructed100.png"></p>
 
+---
 
 ### Generated images using samples from prior distribution
 ##### After 25 epochs
@@ -31,6 +33,8 @@ Pytorch implementation of paper "Autoencoding beyond pixels using a learned simi
 
 ##### After 100 epochs
 <p align="center"><img src="/results/generated100.png"></p>
+
+---
 
 References:
 https://github.com/lucabergamini/VAEGAN-PYTORCH
